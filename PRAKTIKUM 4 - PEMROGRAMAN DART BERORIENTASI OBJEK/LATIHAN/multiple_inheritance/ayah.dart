@@ -1,3 +1,0 @@
-class Ayah {
-  void menabung() {}
-}
